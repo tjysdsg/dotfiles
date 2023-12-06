@@ -5,6 +5,7 @@
 - neovim
 - oh-my-zsh (as a submodule)
 - tmux
+- polybar
 
 # Notes to myself
 
