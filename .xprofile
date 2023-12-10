@@ -1,6 +1,3 @@
 xrandr --output DP-4 --mode 1920x1080 --rate 144 # Dell G15 laptop screen
 xrandr --output HDMI-0 --mode 2560x1440 --rate 144 --right-of DP-4 # AOC external monitor
 
-xinput --set-prop 'ASUSTeK ROG CHAKRAM' 'libinput Accel Speed' -0.8
-
-xset -dpms
