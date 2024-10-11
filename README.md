@@ -11,6 +11,7 @@
 # Notes to myself
 
 - Use apt version of firefox instead of snap one
+- Create symlink of miniconda at `~/miniconda3`
 
 ## GUI Managers LOL
 
